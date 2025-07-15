@@ -92,6 +92,7 @@ services:
     image: flink:latest
     container_name: jobmanager
     ports:
+      - 6123:6123
       - 8089:8081
     environment:
       - FLINK_PROPERTIES=jobmanager.rpc.address:jobmanager
