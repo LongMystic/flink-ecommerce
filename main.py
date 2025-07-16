@@ -56,7 +56,7 @@ def main():
             producer.poll(0)
 
             # wait for 5s before sending the next transaction
-            time.sleep(5)
+            time.sleep(1)
         except BufferError:
             print("Buffer full! Waiting...")
             time.sleep(1)
