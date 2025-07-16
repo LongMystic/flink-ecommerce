@@ -1,6 +1,7 @@
 # Project: flink-ecommerce <br> 
 
 Code from tutorial on <b>Youtube</b>: https://www.youtube.com/watch?v=deepQRXnniM <br>
+Github: https://github.com/airscholar/FlinkCommerce <br>
 
 # Steps <br>
 Step 1: Download Flink and start it <br> 
